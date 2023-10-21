@@ -37,7 +37,3 @@ Check out the figma design of this site here.
 Click on the link below to view a Live Demo of this static site on render
 
 https://home-sparkle.onrender.com/
-
-## CONCLUSION
-
-I still remain your favourite [Software Developer](https://linkedin.com/in/simon-ugorji-57a6a41a3/) ✨
